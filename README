@@ -1,7 +1,4 @@
-This project was a team effort as required in a Database Systems Design class at UWT. The reason for this project was solely 
-to practice SQL and database design. This program is functional as is but not intended to be useful. Prior work in planning 
-and documentation is not included. The actual programming was done very fast and does not reflect ideal programming 
-practices. This program runs on a MySQL server and will populate databases upon runtime.
+This project was a team effort as required in a Database Systems Design class at UWT. The reason for this project was solely to practice SQL and database design. This program is functional as is but not intended to be useful. Prior work in planning and documentation is not included. The actual programming was done very fast and does not reflect ideal programming practices. This program runs on a MySQL server and will populate databases upon runtime.
 
 I do plan on making modifications where I will be able to use this system for my own inventory of embroidery Designs. The 
 shopping cart function was only an added feature my team-mates and I used for demonstration purposes.
