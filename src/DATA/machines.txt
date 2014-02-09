@@ -1,0 +1,8 @@
+Bernina,830,1000,15.75,10.24,"pes,pec",1
+Bernina,Artista 640,750,5,7,exp,1
+Bernina,Deco,500,4,4,"pes,pec",1
+Brother,8500,600,5,7,pes,1
+Brother,PR1000e,1000,14,14,"pec,dst",10
+Janome,11000,800,8,8,jef,1
+Pfaff,7570,800,4.73,4.53,"pcs,pcq",1
+Viking,"Topaz 30",800,14,8,"vip,hus",1

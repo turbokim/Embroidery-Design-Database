@@ -1,0 +1,11 @@
+O10E,Organ,10,Embroidery,0.20
+O11E,Organ,11,Embroidery,0.20
+O11M,Organ,11,Metallic,0.25
+O12E,Organ,12,Embroidery,0.20
+O12M,Organ,12,Metallic,0.25
+O14E,Organ,14,Embroidery,0.20
+O14M,Organ,14,Metallic,0.25
+S11E,Schmetz,11,Embroidery,0.10
+S12M,Schmetz,12,Metallic,0.15
+S14E,Schmetz,14,Embroidery,0.10
+S14M,Schmetz,14,Metallic,0.15

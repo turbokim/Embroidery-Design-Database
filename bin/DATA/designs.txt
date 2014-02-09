@@ -1,0 +1,27 @@
+Dakota Collectibles,CF0022,Occupation,2.51,2.5,Fire & Rescue,12.00,Maltese,"Gray,Lt. Gray,Brown,Black,White,Red,Dk. Red,Blue,Gold,Yellow,Dk. Brown",7386
+Dakota Collectibles,HY057,Holidays,0.68,1,Christmas,12.00,Tree,"Green,Blue,Red",684
+OESD,CC05204,Animals,3.35,3.5,Cats,25.00,Dam Cat,"Black,White",15467
+OESD,CH137,Alpha Bets,2.97,1.53,NULL,9.99,ABC,"Yellow,Orange",5160
+OESD,NB463_48,Animals,2.24,3.84,Dogs,9.99,Dog Laugh,"Red,Black,Pink",3092
+Great Notions,85152,Holidays,3.52,2.59,Santas,4.99,Golf Santa,"Red,White,Black,Pink",7883
+OESD,H5056,Holidays,3.00,3.12,Halloween,9.99,Pumpkin,"Black,Orange,Dk. Orange",7689
+Great Notions,45228,Holidays,6.61,5.22,Reindeer,9.99,Reindeer,"Brown,White",9494
+Dakota Collectibles,SP1488,Sports,8.26,8.17,Basketball,10.00,Female Player,"Red,Blue,Dk. Yellow,Dk. Orange,Gray",14798
+Dakota Collectibles,SP0391,Sports,2.99,1.36,Basketball,10.00,BB Logo,"Orange,Black,Blue",3752
+Dakota Collectibles,CH2211,Floral,1.51,1.1,Flower,12.00,Lily Pad,"Lt. Green,Pink",2889
+Dakota Collectibles,DT1409,Sports,2.61,2.61,Baseball,3.99,BB Outline,"Black,Red",2567
+OESD,WL111,Animals,2.34,2,Cats,7.00,Persian,"Gray,Lt. Gray,Black",6989
+OESD,FA030,Music,2.54,2.77,NULL,4.50,That Jazz,"Red,Purple,Blue,Black,Yellow",4249
+OESD,FA032,Music,1.41,1.62,NULL,4.50,Bass Clef,Black,516
+Great Notions,SR753,Sports,3.77,3.49,Golf,6.00,Girls Golf,"Yellow,Pink,White,Purple",21222
+Great Notions,48721,Animals,2.63,2.39,Bears,9.99,Teddy Bear,Lt. Green,5610
+Amazing Designs,WN506,Holiday,4.2,6.9,Halloween,8.99,Pump&Cats,"Orange,Yellow,Lt. Green,Black,Dk. Gray",41492
+Amazing Designs,WORK105,Occupation,1.9,3.9,Teacher,8.99,Teacher,"Dk. Brown,Lt. Brown,Dk. Gray,Lt. Gray",8890
+Amazing Designs,TEDDY18,Animals,3.6,3.9,Bears,8.99,Angel Bear,"Gold,Dk. Blue,Lt. Blue,Lt. Gray",24239
+Amazing Designs,8JBY07,Animals,4.6,5.9,Birds,8.99,Bird,"Orange,Dk. Orange,Lt. Orange,Dk. Gray,Lt. Gray,White",19396
+
+
+
+
+
+

@@ -1,0 +1,55 @@
+Isacord,0020,Polyester,40,6.49,Black,Black
+Isacord,2550,Polyester,40,6.49,Soft Pink,Pink
+Madeira,915s-1042,Rayon,60,4.98,Soft Blue,Blue
+Madeira,1042,Rayon,40,4.98,Soft Blue,Blue
+Madeira,983-312,Metallic,30,8.57,Oyster,White
+Madeira,985-4022,Metallic,40,8.57,White Gold,Gold
+Timeless,10148,Polyester,30,3.75,Bright Pink,Pink
+Timeless,22124,Polyester,30,3.75,Lemon,Yellow
+Timeless,24121,Polyester,30,3.75,Mandarine,Orange
+Timeless,26154,Polyester,30,3.75,Chocolate,Brown
+Timeless,28151,Polyester,30,3.75,Pure Black,Black
+Sulky,942-1061,Rayon,40,3.55,Pale Yellow,Yellow
+Sulky,942-1083,Rayon,40,3.55,Spark Gold,Gold
+Sulky,942-1095,Rayon,40,3.55,Torquoise,Blue
+Sulky,942-1104,Rayon,40,3.55,Yellow-Green,Yellow
+Sulky,942-1127,Rayon,40,3.55,Medium Ecru,White
+Sulky,942-1156,Rayon,40,3.55,Army,Green
+Sulky,942-1167,Rayon,40,3.55,Maize,Yellow
+Sulky,942-1211,Rayon,40,3.55,Lt. Khaki,Green
+Sulky,942-1252,Rayon,40,3.55,Peacock,Blue
+Sulky,942-1253,Rayon,40,3.55,Dk. Sapphire,Blue
+Sulky,942-1804,Rayon,40,3.55,Bayou Blue,Blue
+Sulky,942-1835,Rayon,40,3.55,Peapod Green,Green
+Sulky,942-2105,Rayon,40,3.55,Vari-Teal Blues,Blue
+Sulky,942-2114,Rayon,40,3.55,Vari-Avocado,Green
+Sulky,942-2105,Rayon,40,3.55,Vari-Aqua,Blue
+Sulky,942-2117,Rayon,40,3.55,Vari-Yellows,Yellow
+Isacord,3,Polyester,40,6.49,Ghost White,Lt. Gray
+Isacord,134,Polyester,40,6.49,Smoky,DK. Gray
+Isacord,220,Polyester,40,6.49,Sunbeam,Lt. Yellow
+Isacord,270,Polyester,40,6.49,Buttercream,Cream
+Isacord,454,Polyester,40,6.49,Olive Drab,Green
+Isacord,555,Polyester,40,6.49,Light Sage,Lt. Green
+Isacord,576,Polyester,40,6.49,Very Dark Brown,Dk. Brown
+Isacord,703,Polyester,40,6.49,Orange Peel,Orange
+Isacord,721,Polyester,40,6.49,Antique,Cream
+Isacord,741,Polyester,40,6.49,Wheat,Lt. Brown
+Isacord,1200,Polyester,40,6.49,Sunset Orange,Orange
+Isacord,1321,Polyester,40,6.49,Dark Orange,Dk. Orange
+Isacord,1776,Polyester,40,6.49,Blackberry,Dk. Blue
+Isacord,2211,Polyester,40,6.49,Pomegranate,Red
+Isacord,2702,Polyester,40,6.49,Grape Jelly,Purple
+Isacord,3130,Polyester,40,6.49,Dawn of Violet,Lt. Purple
+Isacord,3350,Polyester,40,6.49,Battleship Gray,Gray
+Isacord,3574,Polyester,40,6.49,Lavender Whisper,Lt. Purple
+Isacord,3644,Polyester,40,6.49,Electric Blue,Blue
+Isacord,3713,Polyester,40,6.49,Darkest Blue,Dk. Blue
+Isacord,17,Polyester,40,6.49,Royal Navy,Dk. Blue
+Isacord,824,Polyester,40,6.49,Cornflower,Blue
+Isacord,1725,Polyester,40,6.49,Paper White,White
+Isacord,1876,Polyester,40,6.49,Liberty Gold,Gold
+Isacord,1725,Polyester,40,6.49,Terra Cotta,Dk. Orange
+Isacord,1876,Polyester,40,6.49,Chocolate,Brown
+Isacord,2113,Polyester,40,6.49,Cranberry,Red
+Isacord,2115,Polyester,40,6.49,Beet Red,Red
